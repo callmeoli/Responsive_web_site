@@ -13,3 +13,5 @@ Built with HTML, CSS with Responsive Technologies
 • Responsive design for diverse devices  
 • Clear navigation for different sections  
 • Flexible layout for scalability
+### Deployment
+You can check it out at http://randompassword.me/Responsive_web_site/
